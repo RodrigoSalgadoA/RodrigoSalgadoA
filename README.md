@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-Apasionado por el análisis de datos, la programación y la visualización de información. Me especializo en resolver problemas complejos mediante herramientas como **Python**, **SQL**, **Tableau**, **Power BI**, y **HTML**.  
-Actualmente enfocado en aplicar mis habilidades técnicas para generar insights estratégicos y apoyar la toma de decisiones basada en datos.
+Passionate about data analysis, programming, and information visualization. I specialize in solving complex problems using tools such as **Python**, **SQL**, **Tableau**, **Power BI**, and **HTML**. 
+Currently focused on applying my technical skills to generate strategic insights and support data-driven decision making.
 
 ---
 
